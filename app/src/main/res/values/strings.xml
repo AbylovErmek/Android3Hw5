@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android3Hw5</string>
+    <string name="favorites">Избранное</string>
+    <string name="saved_films">saved films</string>
+    <string name="Saved">saved</string>
+    <string name="Loaded">loaded</string>
+    <string name="deleted">Deleted</string>
+    <string name="saved">Saved</string>
+</resources>
